@@ -1,0 +1,123 @@
+== Antwoorden op vragen uit projectweek 1
+
+
+
+.Vraag 1 = Wat als de schulden niet betaald kunnen worden?
+
+*Antwoord*= DAN GAAT DE REKENING GEWOON VERDER ONDER NUL .
+
+.Vraag 2 = Wat is het standaard kredietlimiet?
+
+*Antwoord* = KLANT KAN ZELF KIEZEN
+
+.Vraag 3 = Wat zijn de voorwaarden voor het krijgen van een lening?
+
+*Antwoord* = GEEN LENINGEN
+
+.Vraag 4 = Zijn er vereisten om een rekening te openen?
+
+*Antwoord* = BELGISCH RIJKSREGISTERNUMMER EN MINSTENS 18 JAAR
+
+.Vraag 5 = Is er een limiet op geldopname?
+
+*Antwoord* = JE KUNT NIET MEER OPNEMEN DAN JE SALDO (EN EVT KREDIETLIMIET) TOELATEN
+
+.Vraag 6 = Wordt de interestvoet op het totale bedrag berekend of in schijven?
+
+*Antwoord* = PER DAG HET LAAGSTE SALDO
+
+.Vraag 7 = Hoeveel kredietlimiet heb je bij zichtrekening?
+
+*Antwoord* = ZOVEEL JE WIL
+
+.Vraag 8 = Hoef je een zichtrekening hebben om een spaarrekening te opennen bij de bank?
+
+*Antwoord* = NEEN
+
+.Vraag 9 = Krijg klant en bewijs mee van een overschrijving?
+
+*Antwoord* = JA
+
+.Vraag 10 = Kan een klant de datum van een overschrijving bepalen?
+
+*Antwoord* = NEEN, DAT IS ALTIJD DE DATUM VAN VANDAAG
+
+.Vraag 11 = Kan een klant meerdere zichtrekeningen hebben?
+
+*Antwoord* = JA
+
+.Vraag 12 = Bijkomende kosten bij een geldafhaling?
+
+*Antwoord* = NEEN
+
+.Vraag 13 = Kan de klant een overschrijving annuleren?
+
+*Antwoord* = NEEN
+
+.Vraag 14 = Instapkosten? Kost het geld om een rekening te openen?
+
+*Antwoord* = NEEN
+
+.Vraag 15 = Kunnen rekeningen worden afgesloten/stopgezet?
+
+*Antwoord* = NEEN
+
+.Vraag 16 = Kunnen beleggingen?
+
+*Antwoord* = NEEN
+
+.Vraag 17 = Kunnen gegevens van de klant worden aangepast?
+
+*Antwoord* = NEEN
+
+.Vraag 18 = Is er een bankkaart?
+
+*Antwoord* = NEEN
+
+.Vraag 19 = Is een co-titularis een Klant?
+
+*Antwoord* = JA
+
+.Vraag 20 = Wat doe je als iemand in naam en voor rekening van iemand anders geld komt afhalen of storten?
+
+*Antwoord* = NIET TOEGELATEN, ENKEL IN EIGEN NAAM
+
+.Vraag 21 = Kan een cotitularis verwijderd worden van een rekening?
+
+*Antwoord* = NEEN
+
+.Vraag 22 = Wordt de titularis verwittigd indien een cotitularis geld af zou halen?
+
+*Antwoord* = NEEN
+
+.Vraag 23 = Kan de klant kiezen welke bankbiljetten hij wenst?
+
+*Antwoord* = NEEN
+
+.Vraag 24 = Is het de bedoeling dat de klant op zomaar elke rekening geld kan storten?
+
+*Antwoord* = JA, BINNEN DE VSB
+
+.Vraag 25 = Wat is de maximum periode dat de bank de rapporteringen (verrichtingen) bewaart?
+
+*Antwoord*= EEUWIG
+
+.Vraag 26 = Doen ze nog andere rapporteringen anders dan de verrichtingen?
+
+*Antwoord* = NEEN
+
+.Vraag 27 = Krijgt de klant bewijs van geldafhalingen en/of stortingen?
+
+*Antwoord* = JA
+
+.Vraag 28 = Mogen wij kosten aanbrengen bij dienstverlening ?
+
+*Antwoord* = NEEN
+
+.Vraag 29 = Wat is precies het verschil tussen een titularis en cotitularis? Zijn er dingen die een cotitularis niet kan doen?
+
+*Antwoord* = GEEN VERSCHIL OP DIT MOMENT
+
+.Vraag 30 = Is er een limiet voor stortingen / overschrijvingen?
+
+*Antwoord* = NEEN, BEHALVE SALDO+KREDIETLIMIET BIJ OVERSCHRIJVING

@@ -1,0 +1,58 @@
+== BUC_ZO - Zichtrekening openen
+
+=== Actors
+
+KLANT, medewerker
+
+=== Preconditie
+
+KLANT is geregistreerd
+
+=== Basis pad
+
+. De KLANT wil een nieuwe zichtrekening openen.
+. De medewerker legt het proces voor het openen van een zichtrekening uit aan de klant.
+. De medewerker vraagt naar een eventuele co-titularis.
+. De KLANT vermeld zijn gewenste co-titularis(sen)
+. De medewerker valideert de co-titularis(sen) volgens link:domeinregels.adoc[*DR_RVC*]
+. De medewerker voegt de co-titularis(sen) aan de zichtrekening toe.
+. De medewerker legt uit hoe de kredietvoet werkt.
+. De medewerker vraagt aan de klant wat de kredietvoet van deze zichtrekening mag zijn.
+. De KLANT geeft het bedrag dat hij onder nul zou willen gaan.
+. De medewerker opent de zichtrekening met een uniek rekeningnummer.
+. De use case eindigt
+
+==== Postconditie
+
+De KLANT heeft een geldige zichtrekening.
+
+=== Alternatief A : Stoppen
+
+. De KLANT kan op elk moment beslissen om te stoppen.
+. De medewerker maakt eventuele wijzigingen ongedaan.
+. De use case eindigt
+
+==== Postconditie
+
+Niks gewijzigd
+
+
+=== Alternatief B : De klant wenst geen co-titularis.
+[start=4]
+. De KLANT wenst geen co-titularis aan deze rekening te binden.
+. De medewerker noteert dat de klant geen co-titularis wenst.
+. De use case gaat verder in stap 7 van het basispad.
+
+==== Postconditie
+
+De KLANT heeft een zichtrekening zonder co-titularis.
+
+=== Alternatief C : De klant wenst geen kredietvoet.
+[start=9]
+. De KLANT wenst geen kredietvoet aan deze zichtrekening te binden.
+. De medewerker noteert dat de klant niet onder nul wenst te gaan.
+. De use case gaat verder in stap 10 van het basispad.
+
+==== Postconditie
+
+De KLANT heeft een zichtrekening zonder kredietvoet.

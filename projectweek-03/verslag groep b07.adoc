@@ -1,0 +1,99 @@
+
+
+== Projectweek : **Week 01**
+
+
+Eindverantwoordelijke : **Daelman Stephanie**
+
+=== Projectmomenten
+
+[%autowidth]
+|====
+|Datum | Locatie | Aanwezigen 			 | Totale tijd
+|21/10 | Campus  |   1.Daelman Stephanie |    2 uur
+|      |         |   2.Geleyte Diederiek |
+|	   |		 |   3.Kuga Petar        |
+|      |         |                       |
+|23/10 |  Online |   1.Daelman Stephanie |    2 uur
+|      |         |   2.Geleyte Diederiek |
+|      |         |   3.Kuga Petar        |
+|      |         |                       |
+|26/10 |  Online |   1.Daelman Stephanie |    1 uur
+|      |         |   2.Geleyte Diederiek |
+|	   |		 |   3.Kuga Petar        |
+|====   
+	   
+Afwezigen worden hier genoteerd met vermelding van welk moment ze gemist hebben.
+
+. Kuczynski Brandon - 21/10 NIET AANWEZIG
+. Kuczynski Brandon - 23/10 NIET AANWEZIG
+. Kuczynski Brandon - 26/10 NIET AANWEZIG
+
+=== Activiteiten per groepslid
+
+==== Daelman Stephanie
+
+**__BUC_GS gemaakt en meegeholpen met domeinregels samen te stellen. Ook opmaak, vragen en titels. En deze week ook het verslag opgemaakt. Totaal uren : 5u __**
+
+==== Geleyte Diederiek
+
+**__Samen gewerkt voor BUC_GS en domeinregels ivm geld storten. Ook meegeholpen aan de opmaak van adoc, vragen en de titels. Totaal uren: 5u  __**
+
+==== Kuga Petar
+
+**__BUC_GA gemaakt en domeinregels ivm geld afhalen gemaakt in overleg op teams. Samen ook titels bedacht en de vragen gedaan. Totaal uren : 5u __**
+
+==== Kuczynski Brandon
+
+**__Niet aanwezig en niet bereikbaar__**
+
+
+
+
+
+
+== Projectweek : **Week 03**
+
+
+Eindverantwoordelijke : **Kuga Petar**
+
+=== Projectmomenten
+
+[%autowidth]
+|====
+|Datum | Locatie | Aanwezigen 			 | Totale tijd
+|04/11 | Online  |   1.Daelman Stephanie |    1 uur
+|      |         |   2.Geleyte Diederiek |
+|	   |		 |   3.Khlosi Ibrahim    | 
+|	   |		 |	 4.Kuga Petar		 |
+|	   |		 |						 |
+|05/11 | Online  |   1.Daelman Stephanie |    2 uur
+|      |         |   2.Geleyte Diederiek |
+|	   |		 |   3.Khlosi Ibrahim    | 
+|	   |		 |	 4.Kuga Petar		 |
+|	   |		 |						 |
+|09/11 | Online  |   1.Daelman Stephanie |    2 uur
+|      |         |   2.Geleyte Diederiek |
+|	   |		 |   3.Khlosi Ibrahim    | 
+|	   |		 |	 4.Kuga Petar		 |
+|====   
+	   
+Afwezigen worden hier genoteerd met vermelding van welk moment ze gemist hebben.
+
+=== Activiteiten per groepslid
+
+==== Daelman Stephanie
+
+**__BUC_GS Scenario's aangemaakt en BUC_GA Scenario's aangepast na de feedback. Samen ook de lijst van vragen en antwoorden overlopen. Totaal uren: 5u __**
+
+==== Geleyte Diederiek
+
+**__Definitieve vragen en antwoorden lijst opgesteld. Ook meegeholpen aan Scenario's en de opmaak. Totaal uren: 5u__**
+
+==== Khlosi Ibrahim
+
+**__BUC_GS en BUC_GA aangepast na de feedback inclusief de domeinregels. Samen ook de lijst van vragen en antwoorden overlopen. Totaal uren: 5u __**
+
+==== Kuga Petar
+
+**__BUC_ZO en BUC_SO aangepast na de feedback inclusief domeinregels, de consitentie in de opmaak overlopen en deze week het verslag opgemaakt. Totaal uren: 5u __**

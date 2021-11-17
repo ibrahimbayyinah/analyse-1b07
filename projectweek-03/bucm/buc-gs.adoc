@@ -1,0 +1,95 @@
+== BUC_GS - Geld storten
+De klant wilt geld storten op een rekening.
+Er moet nagegaan worden hoeveel geld ze wilt storten en op welke rekening.
+
+=== Actors
+
+KLANT, medewerker
+
+=== Preconditie
+
+KLANT is geïdentificeerd
+
+=== Basis pad
+
+. De KLANT wilt geld storten op een rekening
+. De medewerker vraagt op welke bankrekening
+. De KLANT geeft het rekeningnummer waarop het bedrag moet gestort worden.
+. De medewerker controleert of het rekeningnummer bestaande is bij deze bank
+volgens link:domeinregels.adoc[*DR_VRO*]
+. De medewerker vraagt welk bedrag de klant wilt storten.
+. De KLANT zegt het bedrag wat erop moet gestort worden en geeft het geld aan de medewerker.
+. De medewerker telt het geld na om te zien of het bedrag klopt met wat de klant zegt
+. De medewerker controleert op echtheid van de biljetten.
+Volgens link:domeinregels.adoc[*DR_CVB*]
+. De medewerker moet gegevens van de transactie noteren en bijhouden.
+. De KLANT vraagt bewijs van storting.
+. De medewerker geeft een bewijs af van storting aan klant.
+. De use case eindigt
+
+==== Postconditie
+
+Het geld is gestort op desbetreffende rekening dat de klant heeft opgegeven.
+DE klant heeft daarvan een bewijs ontvangen van de medewerker.
+
+
+=== Alternatief A : Stoppen
+
+. De klant kan op elk moment beslissen om te stoppen.
+. De medewerker maakt eventuele wijzigingen ongedaan.
+. De use case eindigt
+
+==== Postconditie
+
+Niks gewijzigd
+
+
+=== Alternatief B : Rekeningnummer klopt niet.
+[start=2]
+. De medewerker merkt dat het opgegeven rekeningnummer van klant niet klopt en dus niet bestaat.
+. De medewerker informeert de klant hierover en vraagt om een correcte rekeningnummer.
+. De use case gaat verder in stap 2 van het basispad.
+
+
+=== Alternatief C : Klant heeft niet genoeg geld bij 
+[start=8]
+. De medewerker merkt bij het geld natellen dat klant niet genoeg geld bij heeft voor het bedrag dat ze wilt storten
+. De medewerker informeert de klant hierover.
+. klant beslist om het geld dat ze bij heeft al te storten, dus minder dan dat ze voorzien had.
+. De use case gaat verder in stap 8 van het basispad.
+
+
+== Scenario's
+
+=== Actors
+ 
+MICHAEL , medewerker
+ 
+=== SC-GS-001
+ 
+PAD: Basispad +
+DATA: klant: MICHAEL, rekeningnummer: BE26631239686129, bedrag: 250 euro, co-titularis(sen): geen
+
+=== SC-GS-002 
+PAD: Basispad + Alternatief A: Stoppen +
+DATA: klant: MICHAEL, rekeningnummer: BE26631239686129, bedrag: 250 euro, co-titularis(sen): geen
+
+MICHAEL kijkt op zijn uurwerk en ziet dat hij geen tijd heeft om de transactie af te handelen en zegt dit aan de medewerker.
+Het scenario eindigt.
+
+=== SC-GS-003
+PAD: Basispad + Alternatief B: rekeningnummer klopt niet +
+DATA: klant: MICHAEL, rekeningnummer: BE26631239686127, bedrag: 250 euro, co-titularis(sen): geen 
+
+MICHAEL geeft een foutieve rekeningnummer en de medewerker vraagt hem om een bestaand rekeningnummer van de bank op te geven.
+Scenario gaat verder in stap 2 van het basispad.
+
+=== SC-GS-004 
+PAD: Basispad + Alternatief C: Klant heeft niet genoeg geld bij +
+DATA: klant: MICHAEL, rekeningnummer: BE26631239686129, bedrag: 200 euro, co-titularis(sen): geen
+
+Medewerker merkt op dat MICHAEL maar 200 euro afgeven heeft. MICHAEL beslist dan om 200 euro te storten.
+Scenario gaat verder in stap 8 van het basispad.
+
+
+

@@ -1,0 +1,49 @@
+== BUC_SO - Spaarrekening Openen
+
+=== Actors
+
+KLANT, medewerker
+
+=== Preconditie
+
+KLANT is geregistreerd
+
+=== Basis pad
+
+. De KLANT wil een nieuwe spaarrekening openen.
+. De medewerker legt het proces voor het openen van een spaarrekening uit aan de klant.
+. De medewerker vraagt naar een eventuele co-titularis.
+. De KLANT vermeld zijn gewenste co-titularis(sen)
+. De medewerker valideert de co-titularis(sen) volgens link:domeinregels.adoc[*DR_RVC*]
+. De medewerker voegt de co-titularis(sen) aan de spaarrekening toe.
+. De medewerker legt uit hoe de rente werkt.
+. De medewerker opent de spaarrekening met een uniek rekeningnummer.
+. De use case eindigt
+
+
+==== Postconditie
+
+De KLANT heeft een geldige spaarrekening.
+
+
+=== Alternatief A : Stoppen
+
+. De klant kan op elk moment beslissen om te stoppen.
+. De medewerker maakt eventuele wijzigingen ongedaan.
+. De use case eindigt
+
+==== Postconditie
+
+Niks gewijzigd
+
+
+=== Alternatief B : De klant wenst geen co-titularis.
+[start=4]
+. De KLANT wenst geen co-titularis aan deze rekening te binden.
+. De medewerker noteert dat de klant geen co-titularis wenst.
+. De use case gaat verder in stap 7 van het basispad.
+
+==== Postconditie
+
+De KLANT heeft een spaarrekening zonder co-titularis.
+
