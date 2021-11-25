@@ -1,0 +1,46 @@
+== BUC-KI Klant Identificeren
+De medewerker wil een persoon identificeren als klant van de bank om hem/haar te kunnen bedienen.
+ 
+=== Actors
+PERSOON, *MEDEWERKER*
+ 
+=== Preconditie 
+geen
+ 
+=== Basis pad
+. De MEDEWERKER wil een persoon identificeren als klant van de bank.
+. De MEDEWERKER vraagt de persoon om zich te identificeren met z'n identiteitskaart.
+. De PERSOON geeft de identiteitskaart.
+. De MEDEWERKER controleert dat de kaart een Belgisch rijksregisternummer vermeldt
+* volgens link:domeinregels.adoc#_dr_kbr[DR-KBR].
+. De MEDEWERKER controleert dat de bank de persoonsgegevens heeft van deze persoon.
+. De use case eindigt.
+
+==== Postconditie 
+De persoon is geïdentificeerd als klant van de bank.
+
+=== Alternatief A: Stoppen
+. De PERSOON kan op elk moment beslissen om te stoppen.
+. De use case eindigt.
+
+==== Postconditie
+De persoon is niet geïdentificeerd als klant.
+
+=== Alternatief B: Geen Belgisch rijksregisternummer 
+[start=4]
+. De MEDEWERKER merkt dat de identiteitskaart geen Belgisch rijksregisternummer vermeldt.
+. De MEDEWERKER informeert de persoon hierover.
+. De use case eindigt.
+
+==== Postconditie
+De persoon is niet geïdentificeerd als klant.
+
+
+=== Alternatief C: Niet gekend als klant van de bank
+[start=5]
+. De MEDEWERKER merkt dat de klant geen persoonsgegevens heeft van deze persoon.
+. De MEDEWERKER informeert de persoon hierover.
+. De use case eindigt.
+
+==== Postconditie
+De persoon is niet geïdentificeerd als klant.

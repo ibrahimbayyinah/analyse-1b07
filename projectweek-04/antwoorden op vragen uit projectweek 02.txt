@@ -1,0 +1,293 @@
+Antwoorden op vragen uit projectweek 2
+--------------------------------------
+
+. Wie beslist over het kredietlimiet?
+de klant bij het openen vd zictrekening
+
+. Hoeveel geld mag je afhalen per dag?
+zoveel je wil (rekening houdend met saldo en kredietlimiet)
+
+. Moet de titularis een belgische identiteit bezitten?
+Ja, BElgisch rijksregisternr
+
+. Mag je een nieuwe zichtrekening openen als je op een andere rekening onder nul bent?
+Ja
+. Moet elke spaarrekening een zichtrekening gebonden hebben?
+Neen, er is geen "binden" van rekeningen
+
+
+. Mag de medewerker bij een storting op een niet eigen rekening de naam van de titularis van de rekening delen met de klant als controle?
+Neen
+
+. Hoe wordt een rekeningnummer geformuleerd? Combinatie cijfers/letters bvb: BE123 123 123...
+BExx 990y yyyy yyyy waarbij xx een controle nummer is en 990y yyyy yyyy een rekeningnummer is bestaande uit 12 cijfers. De 990 dient ter identificatie van de VSB. Voor het controlenummer kiezen we in deze opgave steeds 00 voor de eenvoud.
+
+. Moet de klant een afschrift krijgen bij het afhalen of storten van geld?
+ja
+. Aan welke voorwaarden moet men voldoen bij het openen van een rekening? Ouder dan 12, belgische nationaliteit, geen openstaande schulden...
+Je moet klant zijn (BElgisch rijksregisternr en 18jaar  of ouder)
+
+. Vallen doorlopende opdrachten onder de kredietlimiet van een zichtrekening?
+geen doorlopende opdrachten
+. Welke karakters worden toegelaten in de commentaar van een overschrijving?
+eender wat
+
+. Welke stappen moet een medewerker doorlopen om een zicht/spaarrekening aan te maken
+de nodige informatie vragen aan de klant, cotitularissen checken en uniek rek nr aanmaken en mededelen
+
+
+
+. Is het mogelijk om een andere geldeenheid te storten?
+neen
+. Hoeveel rekeningnummers kan een klant maximaal bezitten?
+geen limiet
+. Kan je een spaarrekening openen zonder dat je een zichtrekening hebt?
+ja
+. Is het mogelijk om van een zichtrekening van VSB geld te storten naar een buitenlandse rekening met een andere geldeenheid?
+neen, enkel euro
+. Wat doet IBS als er geld gestort wordt naar een verkeerde rekening die wel bestaat?
+hoe kan die rekening "verkeerd" zijn? Als het rek nr bestaat is alles toch goed?
+
+
+.Wat is de minimum leeftijd om een rekening te openen bij deze bank?
+* Antwoord: je moet min. 18 zijn om klant te zijn
+
+.Welke soort spaarrekeningen heb je allemaal?
+* Antwoord:1 soort, die uit de opgave
+
+.Wat is het stortingslimiet?
+* Antwoord:geen
+
+.Is het mogelijk om meedere (spaar, zicht) rekeningen te hebben op 1 zelfde naam?
+* Antwoord:ja
+
+.Welke dag/week/maand limieten zijn er om geld af te halen?
+* Antwoord:geen
+
+.Hoeveel bedraagt het kredietlimiet van een zichtrekening?
+* Antwoord:mag de klant kiezen bij openen vd rekening
+
+.Wat gebeurt er met de rekeningen als de klant overlijd?
+* Antwoord:niets
+
+.Kan een klant een spaarrekening openen voor hun petekind?
+* Antwoord:neen, tenzij dit petekind 18j of ouder is
+
+.Hoe verloopt het verificatieproces als een klant zijn bewijs van identiteit voorlegt.
+* Antwoord:de klant controleert de identiteitskaart en checkt de foto
+
+
+
+
+. Kan een klant voor iemand anders een rekening aanmaken? ( personen zijn niet gerelateerd)
+neen, iedereen moet aanwezig zijn bij het openen
+. Kan een minderjarige een rekening openen?
+neen
+. Moet een minderjarige 1 of meerdere cotitularis(sen) hebben?
+niet relevant
+. Wordt de klant geinformeerd over de intrestvoet op spaarrekeningen / de de kredietvoet op zichtrekeningen?
+ja, bij het openen
+. Voert de bank security checks uit op verdachte grote consequente stortingen?
+neen
+
+
+
+
+
+. Kan een klant meerdere rekeningen openen bij 1 bank?
+ja
+. Kan een klant een rekening openen als de klant reeds met een ander rekening in het rood staat?
+ja
+
+. Moet een klant een zichtrekening en een spaarrekening hebben?
+neen
+
+. Moeten de co-titularissen opgegeven worden alvorens de rekening in effectiviteit geopent wordt of vlak na?
+bij het openen moeten ze aanwezig zijn
+
+. Gelden er specifieke restricties voor het openen van een rekening (zoals bvb. leeftijd, nationaliteit, etc.)?
+belgisch rijksregisternr en 18+
+
+
+1:Indien de storting gewijgerd wordt en het bedrag in een nieuwe overschrijving teruggestort wordt, hoe wordt deze vordering gecommuniceerd naar de klant toe?
+storten en overschrijven is niet hetzelfde
+2:Is de wijziging van de interestvoet voor iedereen hetzelfde? En, indien nee, op basis van wat wordt deze gewijzigd?
+ja
+3:Wat is de oorzaak van de wijziging in de kredietvoet, aangezien deze universeel gelijk moet blijven voor iedereen.
+de bank die meer geld wil wellicht
+4:Waarom kan de kredietlimiet overschreden worden bij de aanrekening van kredietkosten?
+ja, super goeie vraag!!!!
+5:Kan het openen van een rekening geweigerd worden op basis van het fiscaal vermogen van de klant?
+neen
+
+
+. Is het mogelijk om een spaar of zichtrekening aan te gaan zonder toestemming van de voogd?
+niet relevant wegens 18+
+. Is er een geld limiet dat je op een nieuwe spaarrekening kan zetten?
+neen
+. Kan de voogd geld afhalen van de spaarrekening van een klant die jonger is dan 18?
+niet van toepassing
+. Kan de klant de code van zijn zichtrekening zelf kiezen?
+welke code?
+. Kan je na dat je een spaarekening opent direct aan het spaargeld dat je op je spaarrekening zet?
+ja
+. Veranderd de kredietvoet elk jaar?
+kan, maar moet niet
+
+
+. Kan een klant een zichtrekening openen zonder krediet?
+ja, dan is de kredietlimiet gewoon  0 Eur
+. Kan een minderjarige klant een rekening openen?
+neen
+. Moeten we rekening houden of de klant al dan niet eerder aangesloten was bij de bank?
+als hij al eerder "aangesloten" was bij de bank, dan is het een klant vd bank en kan die klant alles doen wat andere klanten kunnen
+. Kunnen klanten spaarrekeningen openen zonder een zichtrekening te hebben?
+ja
+. Blijven geldbedragen eenzelfde rente houden ongeacht de verandering in rente?
+ik snap de vraag nie goed, maar de formule staat in de opgave
+. maximumbedrag ? 
+Geen idee, welke context?
+
+
+
+=== Vragen over een zichtrekening
+
+.  	 kan ik met een zichtrekening naar een andere rekening overschrijven
+ja
+.    moet ik extra betalen als ik van mijn zichtrekening naar een buitenlandse rekening overschrijf
+nee
+.    kan ik een direckte betaling doen via mijn zichtrekening 
+wat is een direct betaling
+.    is er een limiet op Hoeveel zichtrekeningen ik mag hebben
+neen
+.    moet ik betalen om een zichtrekening te openen en als dat zo is hoeveel
+gratis
+.    heb ik een limiet op hoeveel ik per week kan uitgeven en kan ik deze verhogen    
+gee limiet
+.    staat er een limiet op hoeveel ik kan spenderen zo ja hoeveel is dit en kan ik dit verhogen of verlagen
+kredietlimiet ligt vast bij openening vd rekening, voor de rest heeft enkel nog het saldo invloed op hoeveel je kan spenderen
+   
+=== Vragen over een spaarrekening
+    
+.	 kan ik van mijn spaarrekening direckt iets betalen
+enkel overschrijven naar andere rekeningen	
+.    kan ik van mijn spaarrekening naar andere overschrijven 
+ja, op voorwaarde dat de bestemming ook jouw rekening is bij de VSB (andere spaar of zicht rekening)
+.    kan ik geld ontvangen van mense op mijn spaarrekening
+ja
+.    zijn er limieten op hoeveel geld je mag overschrijven van jou spaarrekening
+niet meer dan het saldo toelast
+.    wat is het intrest percent dat ik krijg op mijn spaarrekening en kan dat verhogen
+zie opgave, daar staat de berekeningswijze
+
+
+
+== Vraag 01
+Wanneer krijgt een zichtrekening een kredietlimiet en hoe wordt die bepaald?
+bij openening mag de klant zelf kiezen
+
+== Vraag 02
+Van welke factoren is de wijziging van de kredietvoet/intrestvoet afhankelijk?
+de reden is niet relevant voor ons, op een dag beslist de bank deze te veranderen
+
+== Vraag 03
+Is de intrestvoet van toepassing op beide de spaar- en zichtrekening? Zo ja, blijft de intrestvoet altijd gelijk voor spaar- en zichtrekening? 
+intrestvoet -> spaarrekening, kredietvoet -> zichtrekening
+
+== Vraag 04 
+Is er een limiet op het aantal rekeningen dat een klant kan bezitten?
+neen
+
+== Vraag 05
+Moeten co-titularissen ook aangesloten zijn als klant, zo nee welke gegevens moeten zij dan verplicht opgeven?
+ja, ze moeten klant zijn
+
+== Vraag 06
+Wat is de procedure met onherkenbare, ongeldige of buitenlandse munten?
+niet relevant
+
+== Vraag 07 
+Is er een limiet op het bedrag dat afgehaald kan worden?
+ja, volgens saldo en kredietlimiet
+
+
+
+Hoe heropen ik mijn geblokkeerde rekening?
+blokkeren doen we niet
+Welke soort rekening is geschikt voor de gewenste verrichting: een spaar- of zichtrekening?
+zie opgave en de vragen+antwoorden vd vorige keer
+
+Hoe lang duurt het voor het gewenste bedrag naar de kleinere bank getransfereerd wordt?
+de kleinere bank? als het om onze eigen rekeningen gaat is het ogenblikkelijk, via IBS is niet ogenblikkelijk duren (we weten niet hoe lang)
+
+Is er ook een mogelijkheid om een nieuwe rekening online te openen?
+neen
+
+Over welke documenten moet een persoon onder een bewind, mentorschap, curatele of voogdij beschikken?
+doen we niet
+
+Wat is het bedrag van mijn daglimiet voor mijn soort rekening?
+geen
+
+
+
+=== vraag 1:
+Hoe zou ik geld kunnen afhalen van mijn spaarrekening?
+eerst overschrijven naar je zichtrek en daaarvan dan afhalen
+
+=== vraag 2:
+Op welke manier kom ik te weten als er een cotitularies geld van mijn rekening heeft afgehaald?
+in de uittreksels
+
+=== vraag 3:
+Kan ik cotitularies van twee rekening tegelijker tijd zijn?
+ja
+
+== vraag 4:
+kan ik twee rekeningen aan maken?
+ja
+
+=== vraag 5:
+Als ik met mijn spaarrekening wil stoppen voor de gezegde periode krijg ik dan de geld terug ?
+je kan je rekening niet sluiten
+
+=== vraag 6:
+Zouden er extra kosten bijkomen als ik van bank beslis te veranderen?
+Neen, maar je blijft klant voor het leven
+
+=== vraag 7:
+Kan ik als cotitularies ook beslisen om niet meer cotitularies te zijn?
+neen
+
+=== vraag 8:
+Wat gebeurd er als krediet niet kan terug betalen naar de bank in de periode dat afgesproken was? hoeveel extra kosten kan ik krijgen?
+de bank maakt gewoon een overschrijving van je rekening voor de kosten, je kan daar zelf niks aan veranderen of tegenhouden. Je gaat dus gewoon NOG meer in het rood.
+=== vraag 9:
+Kan ik mijn spaarrekening en mijn overzicht rekening in twee verschillende banken hebben ?
+waarom niet, wij zijn enkel met onze VSB bezig. Wat je daarnaast nog doet is niet relevant voor de VSB
+=== vraag 10:
+Kan ik een bepalde bedrag aan de cotitularies weigeneren om af te halen?
+neen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
