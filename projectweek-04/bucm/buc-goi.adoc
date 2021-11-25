@@ -1,0 +1,65 @@
+== BUC_GOI - Geld overschrijven intern
+De klant wilt geld overschrijven naar een rekening bij deze bank.
+
+=== Actors
+
+KLANT, medewerker
+
+=== Preconditie
+
+KLANT is geïdentificeerd
+
+=== Basis pad
+
+. De KLANT wilt geld overschrijven op een rekening
+. De medewerker vraagt van welke bankrekening hij geld wilt overschrijven.
+. De KLANT geeft het rekeningnummer waarvan hij geld wilt overshrijven.
+. De medewerker controleert of het rekeningnummer bestaande is bij deze bank
+volgens link:domeinregels.adoc[*DR_VRO*]
+. De medewerker vraagt naar welke bankrekening hij geld wilt overschrijven.
+. De KLANT geeft het rekeningnummer waarnaar hij geld wilt overschrijven.
+. De medewerker controleert of het rekeningnummer bestaande is bij deze bank
+volgens link:domeinregels.adoc[*DR_VRO*]
+. De medewerker vraagt hoeveel de klant wilt overschrijven.
+. De KLANT geeft het bedrag.
+. De medewerker controleert of er genoeg saldo is op de rekening.
+volgens link:domeinregels.adoc[*DR_WOS*]
+. De medewerker voert de overschrijving uit.
+. De use case eindigt.
+
+==== Postconditie
+
+Het geld is overgeschreven op desbetreffende rekening dat de klant heeft opgegeven.
+De klant heeft daarvan een bewijs ontvangen van de medewerker.
+
+
+=== Alternatief A : De klant zijn rekeningnummer klopt niet.
+[start=4]
+. De medewerker merkt dat het opgegeven rekeningnummer van klant niet klopt en dus niet bestaat.
+. De medewerker informeert de klant hierover.
+. De use case eindigt.
+
+==== Postconditie
+
+Niks gewijzigd
+
+=== Alternatief B : De ontvanger zijn rekeningnummer klopt niet.
+[start=7]
+. De medewerker merkt dat het opgegeven rekeningnummer van de ontvanger niet correct is.
+. De medewerker informeert de klant hierover.
+. De use case eindigt.
+
+==== Postconditie
+
+Niks gewijzigd
+
+=== Alternatief C : Onvoldoende saldo op zichtrekening
+[start=10]
+
+. De medewerker merkt op dat er onvoldoende saldo op de rekening staat.
+. De medewerker informeert de klant hierover.
+. De use case eindigt
+	
+==== Postconditie
+
+Niks gewijzigd

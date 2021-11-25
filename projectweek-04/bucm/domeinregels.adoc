@@ -1,0 +1,36 @@
+== Domeinregels
+:toc:
+
+
+== Domeinregels met betrekking op verrichtingen
+
+=== DR_GSR - Geld Storten op een Rekening
+
+Klant kan geld storten op eender welke rekening en moet er zelf dus geen (co)titularis van zijn.
+
+=== DR_VRO - Verkeerde rekeningnummer opgegeven door klant 
+
+Bij elke transactie moet het rekeningnummer van de klant geldig zijn bij onze bank. 
+
+=== DR_CVB - Controleren op Valse Biljetten
+
+Als klant biljetten af geeft om storting te doen op een rekening, moet medewerker steeds controleren op de echtheid van de biljetten.
+
+=== DR_GAR - Geld Afhalen van Rekening. 
+
+klanten kunnen enkel geld afhalen van een zichtrekening bij deze bank.
+Klant moet (co)titularis zijn van de rekening.
+
+=== DR_WOS - Weigering bij een Onvoldoende Saldo.
+
+Een klant kan maximum het huidige bedrag + de kredietlimiet van zijn rekening halen.
+
+== Domeinregels met betrekking op rekeningen
+
+=== DR_RVO - Rekening Vereisten Openen rekening
+
+Een rekening moet een uniek rekeningnummer en een klant bij de VSB als titularis hebben.
+
+=== DR_RVC - Rekening Vereisten Co-titularissen
+
+Een co-titularis van een rekening moet klant zijn bij de VSB.

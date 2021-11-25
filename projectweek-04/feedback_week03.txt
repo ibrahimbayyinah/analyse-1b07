@@ -1,0 +1,43 @@
+teveel vragen
+
+BUC GA of GS beetje door elkaar
+Geen rekening houden met vals geld
+klant vraagt bewijs is niet nodig
+
+VRO controleren of zichtrekening van onze bank.
+ALT B
+Uitsplitsen, zodat het makkelijker is qua rapportering bij het probleem.
+Controle klopt niet met wat er staat. --> apart houden. 
+
+BUC ZO 
+beschrijving in het begin
+preconditie: klant is geïdentificeerd
+kredietlemiet ipv kredietvoet
+bedrag dat hij onder nul wou willen gaan -> kredietlimiet
+postconditie wijzigen
+
+Scenario's
+soort rekening moet gespecifieerd worden
+
+alternatieven opsplitsen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

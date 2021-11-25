@@ -1,0 +1,71 @@
+== BUC_ZO - Zichtrekening openen
+De klant wil een zichtrekening openen.
+
+=== Actors
+
+KLANT, medewerker
+
+=== Preconditie
+
+KLANT is geïdentificeerd
+
+=== Basis pad
+
+. De KLANT wil een nieuwe zichtrekening openen.
+. De medewerker legt het proces voor het openen van een zichtrekening uit aan de klant.
+. De medewerker vraagt naar een eventuele co-titularis.
+. De KLANT vermeld zijn gewenste co-titularis(sen) + 
+. De medewerker voert link:buc-ki.adoc[*BUC_KI*] uit.
+. De medewerker voegt de co-titularis(sen) aan de zichtrekening toe.
+. De medewerker legt uit hoe de kredietvoet werkt.
+. De medewerker vraagt aan de klant wat de kredietlimiet van deze zichtrekening mag zijn.
+. De KLANT geeft het gewenste kredietlimiet.
+. De medewerker opent de zichtrekening met een uniek rekeningnummer.
+. De medewerker geeft het nieuwe rekeningnummer aan de KLANT.
+. De use case eindigt
+
+==== Postconditie
+
+De KLANT heeft een zichtrekening.
+
+=== Alternatief A : Stoppen
+
+. De KLANT kan op elk moment beslissen om te stoppen.
+. De medewerker maakt eventuele wijzigingen ongedaan.
+. De use case eindigt
+
+==== Postconditie
+
+Niks gewijzigd
+
+
+=== Alternatief B : De klant wenst geen co-titularis.
+[start=4]
+. De KLANT wenst geen co-titularis aan deze rekening te binden.
+. De medewerker noteert dat de klant geen co-titularis wenst.
+. De use case gaat verder in stap 7 van het basispad.
+
+==== Postconditie
+
+De KLANT heeft een zichtrekening zonder co-titularis.
+
+
+
+== Scenario's
+
+
+
+
+=== SC-GA-001
+KLANT: JOS +
+zichtrekening: BE00000000000002 +
+kredietlimiet: 3000euro +
+cotitularis: JANTJE
+PAD: Basispad
+
+
+=== SC-GA-002
+KLANT: MICHAEL +
+zichtrekening: BE00000000000002 +
+kredietlimiet: 1000euro +
+PAD: Basispad en Alternatief B

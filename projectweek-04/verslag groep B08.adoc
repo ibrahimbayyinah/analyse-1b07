@@ -1,0 +1,92 @@
+
+== Projectweek : **Week 04**
+
+
+Eindverantwoordelijke : **Crombez Elias**
+
+=== Projectmomenten
+
+[%autowidth]
+|====
+|Datum | Locatie | Aanwezigen 			 | Totale tijd
+|19/11 | feedback|   1. Tim Hughens |    2 uur
+|      |         |   2. Elias Crombez |  2 uur
+|      |         |   3. Tim Hughens | 2 uur
+|	   |         |
+|19/11 | Online  |   1. Tim Hughens |    2 uur
+|      |         |   2. Elias Crombez |  2 uur
+|	   |		 |   3. Mike De Decker     | 2 uur
+|      |         |   4. Mathias Van Rumst | 2 uur
+|      |         |                       |
+|22/11 | Online  |   1. Tim Hughens |    2 uur
+|      |         |   2. Elias Crombez |  2 uur
+|	   |		 |   3. Mike De Decker     | 2 uur
+|      |         |   4. Mathias Van Rumst | 2 uur
+|====   
+	   
+Afwezigen worden hier genoteerd met vermelding van welk moment ze gemist hebben.
+
+=== Activiteiten per groepslid
+
+==== Tim Hughens
+
+**__feedback toepassen, vragen filteren en nieuwe vragen toevoegen met Mike, conceptueel data model maken__**
+
+==== Elias Crombez
+
+**__feedback toepassen, BUC-GOI maken samen met Mathias, scenario´s maken voor BUC-ZO en BUC-SO met Mathias, conceptueel data model maken__**
+
+==== Mike De Decker
+
+**__feedback toepassen, vragen filteren en nieuwe vragen toevoegen met Tim, conceptueel data model maken__**
+
+==== Mathias Van Rumst
+
+**__feedback toepassen, BUC-GOI maken samen met Elias, scenario´s maken voor BUC-ZO en BUC-SO met Elias, conceptueel data model maken__**
+
+
+
+
+== Projectweek : **Week 02**
+
+
+Eindverantwoordelijke : **Van Rumst Mathias**
+
+=== Projectmomenten
+
+[%autowidth]
+|====
+|Datum | Locatie | Aanwezigen 			 | Totale tijd
+|28/10 | Online  |   1. Tim Hughens |    4 uur
+|      |         |   2. Elias Crombez |  4 uur
+|	   |		 |   3. Mike De Decker     | 4 uur
+|      |         |   4. Mathias Van Rumst | 4 uur
+|      |         |                       |
+|28/10 | Online  |   1. Tim Hughens |    0.5 uur
+|      |         |   2. Elias Crombez |  2 uur
+|	   |		 |   3. Mike De Decker     | 2 uur
+|      |         |   4. Mathias Van Rumst | 2 uur
+|		|		|		|
+|3/11 |  Online |   1. Elias Crombez |    1 uur
+|      |         |  2. Mike Deckerk  | 1 uur
+|====   
+	   
+Afwezigen worden hier genoteerd met vermelding van welk moment ze gemist hebben.
+
+=== Activiteiten per groepslid
+
+==== Tim Hughens
+
+**__BUC_GA & BUC_GO aangepast, Scenario´s geschreven samen met Elias. __**
+
+==== Elias Crombez
+
+**__ BUC_GA & BUC_GO aangepast, scenario´s geschreven samen met Tim, mee helpen nakijken en herschrijven. __**
+
+==== Mike De Decker
+
+**__BUC_GA & BUC_GO aangepast, BUC_SO & BUC_ZO aangemaakt samen met Mathias, mee helpen nakijken en herschrijven.__**
+
+==== Mathias Van Rumst
+
+**__BUC_GA & BUC_GO aangepast, BUC_SO & BUC_ZO aangemaakt samen met Mathias, mee helpen nakijken en herschrijven.__**
