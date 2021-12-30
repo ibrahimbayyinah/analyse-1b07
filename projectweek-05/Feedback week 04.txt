@@ -1,0 +1,32 @@
+Feedback week 04
+
+BUC-GA=
+Geen controle of het een bank van deze bank zelf is.
+DR_VRO de vaag: kan geld afhalen van een zichtrekening.
+DR_GAR: moet opgesplits zijn.
+Senario => bedrag geld afhalen.
+
+
+DR_WOS : zet saldo inplaats van bedrag.
+
+
+BUC-ZO=
+.extra stap om rekeningnummer te bepalen ook op basis van unique domeinregel.
+Senario => doen klopen met de domeinsamples, codes klopen ook niet.
+
+BUC-GOI=
+-Controle van beide rekeningnummers die van onze bank moeten zijn: is goed!
+
+-Geeft klant toegang tot de rekening: met nog toevoegen!
+
+-Nakijken of er genoeg geld is: is goed!
+Domeinregel nieuwe regel maken inplaats van WOS.
+
+-Controleren of het gaat om een spaarrekening, niet van iemand anders: moet nog toevoegen!
+
+Domein-samples:
+REIKSREGISTERNUMMRS.
+
+
+
+

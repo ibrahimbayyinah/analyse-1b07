@@ -1,0 +1,126 @@
+== BUC_GA - Geld afhalen
+De klant probeert een geldbedrag van een rekening af te halen.
+
+=== Actors
+
+KLANT, medewerker
+
+=== Preconditie
+
+KLANT is geïdentificeerd.
+
+=== Basis pad
+
+. De KLANT wil geld afhalen van zijn zichtrekening.
+. De MEDEWERKER vraagt van welke zichtrekening.
+. De KLANT geeft het rekeningnummer waarvan hij het bedrag wilt afhalen.
+. DE MEDEWERKER controleert of het een bestaande zichtrekening is van deze bank
+volgens link:domeinregels.adoc[*DR_VRO*]
+. De MEDEWERKER controleert of de klant (co) titularis is van de rekening 
+volgens link:domeinregels.adoc[*DR_GAR*]
+. De MEDEWERKER vraagt hoeveel geld hij wil afhalen.
+. De KLANT geeft het bedrag aan dat hij wil afhalen.
+. De MEDEWERKER gaat na dat er voldoende saldo op de rekening staat
+volgens link:domeinregels.adoc[*DR_WOS*]
+. De MEDEWERKER noteert de transactie.
+. De KLANT ontvangt zijn geld.
+. De use case eindigt
+
+==== Postconditie
+
+Het geldbedrag wordt van de zichtrekening gehaald en aan de klant uitbetaald.
+
+=== Alternatief A : Stoppen
+
+. De klant kan op elk moment beslissen om te stoppen.
+. De medewerker maakt eventuele wijzigingen ongedaan.
+. De use case eindigt
+
+==== Postconditie
+
+Niks gewijzigd
+
+=== Alternatief B: Rekeningnummer is niet correct.
+[start=4]
+. De medewerker merkt op dat de zichtrekening niet bestaat bij deze bank.
+. De medewerker informeert de klant hierover. 
+. De use case eindigt
+
+==== Postconditie
+
+Niks gewijzigd
+
+=== Alternatief C: De klant is geen (co) titularis van de zichtrekening.
+[start=5]
+. De medewerker merkt op dat de klant geen machtiging heeft op het aangegeven rekeningnummer.
+. De medewerker informeert de klant hierover. 
+. De use case eindigt
+
+==== Postconditie
+
+Niks gewijzigd
+
+=== Alternatief D : Onvoldoende saldo op zichtrekening
+[start=8]
+. De medewerker merkt op dat er onvoldoende saldo op de rekening staat.
+. De medewerker informeert de klant hierover. 
+. De use case eindigt
+
+==== Postconditie
+
+Niks gewijzigd
+
+
+
+
+== Scenario's
+
+=== SC-GA-001
+KLANT: MICHAEL
+rekeningnummer = BE00000000000001
+af te halen bedrag: 100euro
+PAD: Basispad
+
+
+=== SC-GA-002
+KLANT MICHAEL
+rekeningnummer = BE00000000000001
+PAD: Basispad + Alternatief A: Stoppen
+
+MICHAEL kijkt op zijn uurwerk en ziet dat hij geen tijd heeft om de transactie af te handelen en zegt dit aan de medewerker.
+Het scenario eindigt.
+
+
+=== SC-GA-003 
+KLANT: JANTJE
+rekeningnummer BE00000000000001
+PAD: Basispad + Alternatief B: De klant is geen (co)titularis van de zichtrekening.
+
+
+=== SC-GA-004
+KLANT: JANTJE
+rekeningnummer = foutief rekeningnummer
+PAD: Basispad + Alternatief C: zichtrekeningekeningnummer is niet correct.
+
+
+=== SC-GA-005
+KLANT: MICHAEL
+rekeningnummer = BE00000000000001
+af te halen bedrag: 20.000euro
+PAD: Basispad + Alternatief D: Onvoldoende saldo op rekening.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

@@ -10,7 +10,7 @@ Klant kan geld storten op eender welke rekening en moet er zelf dus geen (co)tit
 
 === DR_VRO - Verkeerde rekeningnummer opgegeven door klant 
 
-Bij elke transactie moet het rekeningnummer van de klant geldig zijn bij onze bank. 
+Klanten kunnen enkel geld afhalen van een zichtrekening bij deze bank.
 
 === DR_CVB - Controleren op Valse Biljetten
 
@@ -18,8 +18,7 @@ Als klant biljetten af geeft om storting te doen op een rekening, moet medewerke
 
 === DR_GAR - Geld Afhalen van Rekening. 
 
-klanten kunnen enkel geld afhalen van een zichtrekening bij deze bank.
-Klant moet (co)titularis zijn van de rekening.
+Klant moet (co)titularis zijn van de rekening om geld af te halen.
 
 === DR_WOS - Weigering bij een Onvoldoende Saldo.
 

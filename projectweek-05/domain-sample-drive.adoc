@@ -1,0 +1,38 @@
+==Domain-samples
+
+=== Klanten
+
+KLANT: MICHAEL
+
+KLANT: JANTJE
+
+KLANT: JOS
+
+=== Zichtrekeningen
+BE00000000000001 +
+hoofdtitularis = MICHAEL +
+cotitularis 1 = / +
+cotitularis 2 = / +
+Huidig saldo = 250euro +
+kredietlimiet = 100euro 
+
+
+BE00000000000002 +
+hoofdtitularis = JOS +
+cotitularis 1 = JANTJE +
+cotitularis 2 = / +
+Huidig saldo = 0euro +
+kredietlimiet = 3000euro +
+
+=== Spaarrekeningen
+BE00000000030001
+hoofdtitularis = MICHAEL
+cotitularis 1 = JANTJE +
+cotitularis 2 = / +
+Huidig saldo = 0euro
+
+BE00000000030002
+hoofdtitularis = MICHAEL
+cotitularis 1 = / +
+cotitularis 2 = / +
+Huidig saldo = 0euro

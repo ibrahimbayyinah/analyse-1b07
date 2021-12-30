@@ -1,0 +1,7 @@
+attribuut medewerker (de werknemer die de transactie uitvoert)
+
+entiteit: transacties (elke transactie wordt bijgehouden)
+
+relatie: transactie moet genoteerd worden door 1 MW; MW noteert 1 of meerdere transacties 
+
+relatie: mw helpt 1 klant; klant wordt geholpen door 1 mw

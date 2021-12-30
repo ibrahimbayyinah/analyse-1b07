@@ -1,0 +1,40 @@
+[domeinregels]
+dr-vro: bij geldafh, enkel zichtrek
+
+dr-gar: deeltje van zichtrek bij dr-vro plaatsen
+
+dr-wos: ipv "bedrag", "saldo"
+aanpassen nav zicht
+
+nieuwe dr voor overschrijven
+
+[ga]
+V alternatieven sorteren
+
+sc-ga1: bedrag???
+andere scenarios ook ontbreekt af te halen bedrag
+
+[zo]
+
+basispad:
+buc-ki uitvoeren voor elke cotitu
+
+ontbrekende stap: klant het uniek rekeningnr (ontvangt)
+
+scenario namen aanpassen (zo ipv ga)
+
+[goi]
+
+5 controles: 2 reknrs: 2 vsb's, klant toegang tot bronrek, checken of er genoeg geld, controleren als bron spaarrek dan moet doel eigen zichtrek zijn
+2 controles ontbrekend: toegang en spaarrek gedoe
+
+
+[algemeen]
+
+actors moeten opvallen: medewerker ook caps
+
+domeinregelsdata syncen met scenarios
+
+[domeinsample]
+
+klanten rijksregisternr nodig

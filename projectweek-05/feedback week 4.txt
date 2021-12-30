@@ -1,0 +1,44 @@
+Feedback week 4
+
+BUC_GA
+
+- Controle is rekening van deze bank?
+- Alternatieven in volgorde zetten van beginnummer
+
+
+
+Domeinregels
+
+- DR_GAR eerste regel naar DR_VRO
+- DR_WOS ipv bedrag , saldo schrijven
+- Domeinregel DR_VRO aanpassen -> Bij geldafhalingen van rekening nummer
+- Extra domeinregel voor controle spaarrekening
+- DR_WOS andere uitleg --> andere voor afhalen en overschrijven
+
+BUC_ZO 
+
+- Actors -> mederwerker moet in hoofdletters
+- Regel 5 niet goed uitgelegd -> aanpassen
+- Extra stap toevoegen voor aanmaken unieke rekening nummer
+
+BUC_GOI 
+
+- 2 rekening nummers controleren (doelrekening en startrekening) --> 2 controles
+- Klant toelating tot rekening? --> 1 controle
+- Controle of er genoeg saldo op rekening is --> 1 controle
+- Controle indien overschrijving van spaarrekening komt of de doelrekening een rekening is van dezelfde klant! --> 1 controle
+
+
+Domain sample
+
+- klanten moeten een rijksregisternummer toevoegen
+- + moeten weg
+
+
+BUC_ZO
+
+Scenario's
+
+- Aanpassen rekening nummers --> aanpassen aan domain samples
+- codes aanpassen van GA naar ZO
+
